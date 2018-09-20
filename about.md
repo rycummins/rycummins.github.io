@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-Some information about you!
+I am a Senior Consultant in the Automation Practice at Red Hat.
 
-### More Information
+I grew up in King of Prussia and currently live in one of Philadelphia's best neighborhoods, Passyunk Square. My favorite thing about the neighborhood is being able to walk to top notch restaurants and specialty markets/grocery stores.
 
-A place to include any other types of information that you'd like to include about yourself.
+Outside of work I enjoy traveling, cooking/eating, going on walks with my dog, attending concerts/theater, and watching Phillies baseball.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[blog@rycummins.com](mailto:blog@rycummins.com)
