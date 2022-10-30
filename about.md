@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-I am a Sr. Software Engineer at Comcast.
+I am a Staff Engineer, Infrastructure at Sportsdog.
 
 I work mostly on infrastructure automation projects in hybrid cloud environments.
 
