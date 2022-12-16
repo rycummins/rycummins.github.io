@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-I am a Staff Software Engineer at [Underdog Fantasy](https://underdogfantasy.com/).
+I am a Staff Engineer at [Underdog Fantasy](https://underdogfantasy.com/).
 
 I work mostly on infrastructure automation projects in hybrid cloud environments.
 
